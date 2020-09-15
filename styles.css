@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.mountain{
+  height: 600px;
+  width: 1000px;
+}
+
+span{
+  text-decoration: underline;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+}
+h3{
+  font-family: 'Courgette', cursive;
+  font-size: 45px
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+}
+
+.bottom-cloud{
+  width: 202px;
+  height: 79.625;
+  position: absolute;
+}
+.top-cloud{
+  width: 202px;
+  height: 79.625;
+  position: absolute;
+  right: 450px;
+}
+
+.top-continer{
+  position: relative;
+  padding-top: 200px;
+  background-color:#cffffe;
+}
+.profile-img{
+  height: 500px;
+  width: 500px;
+}
