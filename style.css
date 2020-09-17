@@ -1,5 +1,5 @@
 body{
-  background-image: url(background.jpg);
+  background-image: url(image.jpg);
   text-align: center;
   line-height: 2;
 }
@@ -67,7 +67,7 @@ ul{
 }
 
 .swimming-img{
-  width: 10%;
+  width: 20%;
   float: right;
   margin-top: 50px;
   margin-left: 30px;
@@ -75,7 +75,7 @@ ul{
 }
 
 .coding-img{
-  width: 10%;
+  width: 20%;
   float: left;
   margin-top: 50px;
   margin-right: 30px;
